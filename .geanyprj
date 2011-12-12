@@ -1,0 +1,8 @@
+
+[project]
+name=myapp
+description=
+base_path=me/lamond/myapp
+run_cmd=
+regenerate=true
+type=All
